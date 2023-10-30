@@ -6,4 +6,4 @@ The classic Snake game is a classic arcade game where players control a snake th
 
 <img src="https://i.imgur.com/rj3uDef.png" alt="image"/>
 
-<img src="https://i.imgur.com/dmr4akA.png" alt="image"/>
+<img src="https://i.imgur.com/risU2au.png" alt="image"/>
